@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">rEVs</string>
+    <string name="invalid_card">INVALID CARD</string>
+    <string name="hint">By pressing scan button and successfully reading a barcode, this text area will change.\nLabel content will be displayed.</string>
+    <string name="checking_card">Checking Card</string>
+    <string name="remote_start_refused">Charging currently refused</string>
+    <string name="scan_ev">Please scan vehicle</string>
+    <string name="check_cp">Starting charge session</string>
+    <string name="timeout_error">Timeout error - unable to communicate</string>
+    <string name="connection_error">Network connection error - unable to communicate</string>
+    <string name="authorised">Charging authorised</string>
+    <string name="unavailable">Unable to start charge</string>
+    <string name="card_error">Unable to update charge reference</string>
+    <string name="tap_card">Tap card on rear of scanner</string>
+    <string name="stopped">Charging stopped</string>
+    <string name="unexpected">Unexpected error. Please try again</string>
+    <string name="continue_button">CONTINUE</string>
+    <string name="romatech_logo">Romatech Logo</string>
+    <string name="copyright">Copyright © 2021 Roma Technology Limited</string>
+    <string name="a_barcode">A Barcode</string>
+    <string name="a_qr_code">A QR Code</string>
+    <string name="scan_barcode">Scan vehicle</string>
+    <string name="scan_qr">Scan chargepoint</string>
+    <string name="decoder_error">Barcode reader error</string>
+    <string name="stop_error">Error requesting remote stop of current charging session</string>
+    <string name="evse_error">Unable to identify chargepoint QR code</string>
+    <string name="cp_error">Charging station not found</string>
+    <string name="cpstatus_error">Chargepoint not found</string>
+    <string name="cant_start">Unable to start charging session</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
